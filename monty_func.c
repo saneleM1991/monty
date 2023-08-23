@@ -64,6 +64,8 @@ instruct_func get_op_func(char *str)
 		{"add", _add},
 		{"nop", _nop},
 		{"sub", _sub},
+		{"mul", _mul},
+		{"div", _div},
 		{"mod", _mod},
 		{NULL, NULL},
 	};
