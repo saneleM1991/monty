@@ -15,21 +15,21 @@ Ubuntu 14.04 LTS via Vagrant in VirtualBox and compiled with GCC version 4.8.4
 
 ## Instructions
 
-## Resources:books:
+## Resources
 Read or watch:
 * Google
 * Create dynamic libraries on Linux
 
 
-## Learning Objectives:bulb:
+## Learning Objectives
 What you should learn from this project:
 
-* What do LIFO and FIFO mean
-* What is a stack, and when to use it
-* What is a queue, and when to use it
-* What are the common implementations of stacks and queues
-* What are the most common use cases of stacks and queues
-* What is the proper way to use global variables
+- What do LIFO and FIFO mean
+- What is a stack, and when to use it
+- What is a queue, and when to use it
+- What are the common implementations of stacks and queues
+- What are the most common use cases of stacks and queues
+- What is the proper way to use global variables
 
 ## Intructions basics
 
